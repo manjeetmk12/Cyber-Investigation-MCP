@@ -1,0 +1,26 @@
+# === Core Frameworks ===
+fastapi==0.115.2
+uvicorn==0.30.1
+requests==2.32.3
+pydantic==2.9.1
+python-dotenv==1.0.1
+
+# === OpenSearch and Logging ===
+opensearch-py==2.7.1
+loguru==0.7.2
+
+# === LangChain / MCP Integration ===
+mcp==0.2.1
+
+# === Utility Packages ===
+httpx==0.27.0
+asgiref==3.8.1
+
+# === Optional (if you plan async or LLM adapter use) ===
+langchain==0.3.2
+langchain-core==0.3.12
+langchain-openai==0.2.2
+
+# === Security & Environment ===
+cryptography==43.0.3
+certifi>=2024.8.30
