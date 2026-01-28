@@ -39,7 +39,7 @@ The system consists of three main components working together:
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/manjeetmk12/Cyber-Investigation-MCP.git)
 cd cyber-investigator-mcp
 ```
 
